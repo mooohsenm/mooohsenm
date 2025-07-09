@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohsen Moradi</h1>
 <h3 align="center">Senior Software Engineer | Back-end Developer | Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Namazi_Nuc** (MERN Project)
+- 🔭 I’m currently working on **QMedica** (MERN Project) [https://QMedica.ir](https://QMedica.ir)
 
 - 👨‍💻 All of my projects are available at [https://moradi.ir](https://moradi.ir)
 

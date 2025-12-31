@@ -34,7 +34,7 @@ I enjoy owning services **end-to-end**—from API design and data modeling to ob
 
 ---
 
-## 🧠 Selected Projects
+## 🧠 Recent Projects
 
 ### 🚀 QMedica — Nuclear Medicine Reporting Platform  
 **Production system used in multiple hospitals**

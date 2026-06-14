@@ -4,8 +4,9 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/mohsenmoradi/">LinkedIn</a> ·
 <a href="https://moradi.ir">Portfolio</a> ·
-<a href="mailto:mohsen@moradi.ir">mohsen@moradi.ir</a>
-  <br />
+<a href="mailto:mohsen@moradi.ir">mohsen@moradi.ir</a> .
+<a href="mailto:mohsen.moradi.dev@gmail.com">mohsen.moradi.dev@gmail.com</a>
+  <br /> <br />
 <img src="https://komarev.com/ghpvc/?username=mooohsenm&label=Profile%20views&color=0e75b6&style=flat" alt="mooohsenm" />
 </p>
 
@@ -13,7 +14,7 @@
 
 ## 👋 About Me
 
-Senior Backend Engineer with **10+ years of experience** building **high-performance, reliable, and compliant backend systems** for data-intensive products. I specialize in **TypeScript-first Node.js architectures**, system scalability, and production readiness.
+Senior full-stack Engineer with **10+ years of experience** building **high-performance, reliable, and compliant backend systems** for data-intensive products. I specialize in **TypeScript-first Node.js architectures**, system scalability, and production readiness.
 
 I enjoy owning services **end-to-end**—from API design and data modeling to observability, security, and operational excellence. My work typically focuses on **order flows, real-time systems, healthcare platforms, and business-critical backends** used by real users at scale.
 
@@ -21,7 +22,9 @@ I enjoy owning services **end-to-end**—from API design and data modeling to ob
 
 ## 🎯 Engineering Focus
 
-- **Backend-first mindset** (clean architecture, service boundaries, maintainability)
+- **Full-stack engineering mindset** (clean architecture, maintainable boundaries, and end-to-end ownership across frontend and backend)
+- **Backend systems design** (scalable services, efficient async processing, optimized database access, and clear domain modeling)
+- **Frontend craftsmanship** (responsive interfaces, reusable components, thoughtful state management, and accessible UX)
 - **Performance & scale** (low latency, efficient async flows, optimized DB access)
 - **Reliability & observability** (clear signals, predictable behavior in production)
 - **Security & compliance** (JWT, RBAC, PII-safe logging, production hardening)
@@ -287,7 +290,7 @@ I enjoy owning services **end-to-end**—from API design and data modeling to ob
 
 ## 📌 What I’m Looking For
 
-Backend-heavy projects where I can:
+Projects where I can:
 - Contribute meaningfully in a forward-thinking team
 - Own services end-to-end  
 - Work with **performance budgets, clear SLOs, and real observability**  

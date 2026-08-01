@@ -1,5 +1,5 @@
 <h1 align="center">Mohsen Moradi</h1>
-<h3 align="center">Senior Backend Engineer · TypeScript / Node.js · Scalable & Reliable Systems</h3>
+<h3 align="center">Full-Stack Developer · JavaScript / TypeScript / Node.js · Scalable & Reliable Systems</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mohsenmoradi/">LinkedIn</a> ·
